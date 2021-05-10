@@ -1,2 +1,2 @@
 # maratona-rocket-discover
- maratiooba rocketseat
+ marationa rocketseat
